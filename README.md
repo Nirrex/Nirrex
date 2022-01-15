@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nirrex
+- Im currently learning more about smart contract creation mainly ERC20 
+- Reach me on telegram 
+- Feel free to reach out will be posting my own forks when i deploy them
